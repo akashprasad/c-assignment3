@@ -18,5 +18,6 @@ int main()
  else
  {
   cout<<c<<" maximum number.";
-  return 0;
- }  
+ } 
+ return 0;
+}
