@@ -6,6 +6,7 @@ int main()
 {
   int n,sum,a;
   a=1;
+  sum=0;
   cout<<"Enter nth term : ";
   cin>>n;
   while(a<=n)
