@@ -18,6 +18,7 @@ int main()
   di=rev%10;
   switch(di)
   {
+   case 0:cout<<"zero ";break;
    case 1:cout<<"one ";break;
    case 2:cout<<"two ";break;
    case 3:cout<<"three ";break;
