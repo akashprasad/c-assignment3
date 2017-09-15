@@ -1,38 +1,5 @@
 # c-assignment3
 // question 63
-This version of Firefox is no longer supported. Please upgrade to asupported browser. Dismiss
-1 of 413
- 
-Fwd: comp ass
-Inbox
-	x
-Prem Nigam Kar <premnigam.kar@niser.ac.in>
-	
-Attachments8:59 PM (2 hours ago)
-	
-to me
----------- Forwarded message ----------
-From: "Prem Nigam Kar" <premnigam.kar@niser.ac.in>
-Date: 14 Sep 2017 16:23
-Subject: comp ass
-To: "Prem Nigam Kar" <premnigam.kar@niser.ac.in>
-Cc:
-71 Attachments
-	
-Click here to Reply or Forward
-Using 0.27 GB
-Manage
-Program Policies
-Powered by
-Google
-Last account activity: 3 minutes ago
-Details
-	
-	
-	Prem Nigam Kar
-premnigam.kar@niser.ac.in
-Show details
-
 #include <iostream>
 #include <cmath>
 using namespace std;
